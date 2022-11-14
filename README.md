@@ -1,3 +1,3 @@
-# vsd_pd
+# Arbiter PUF
 
-This is Repository for Physical Design Workshop by Kunal Ghosh :VSDIAT.
+This is Repository for Conventional Arbitr PUF
